@@ -1,0 +1,3 @@
+开源了一个可以把yaml/json转为任何对象的项目，无需预先定义好对象。
+1、你可以把直接操作AnyObject内的Map
+2、你可以把任何对象转为AnyObject内的Map,继而再转为yaml或者json
